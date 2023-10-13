@@ -5,6 +5,7 @@
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watchAll",
+    "test:coverage": "jest --coverage",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
